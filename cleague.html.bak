@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>P4</title>
+    <!-- CSS only -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
+          crossorigin="anonymous">
+    <link href="styles/rest.css" rel="stylesheet">
+
+</head>
+<body>
+<div class="container-fluid">
+    <div class="row">
+        <div class="row">
+            <nav class="navbar navbar-expand-md
+                    justify-content-start
+                    bg-dark navbar-dark
+                    col-12">
+
+                <!-- Brand -->
+                <a class="navbar-brand" href="index.html">Homepage</a>
+                <!-- Responsive Button for the smaller menu -->
+                <button class="navbar-toggler" type="button"
+                        data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="collapsibleNavbar">
+                    <ul class="navbar-nav">
+                        <!-- Links -->
+						    <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbardrop"
+                               data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                League Discussion
+                            </a>
+                            <div class="dropdown-menu">
+                                <a class="dropdown-item" href="bundesliga.html">Bundesliga</a>
+                                <a class="dropdown-item" href="cleague.html">Champions League</a>
+                            </div>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="transfer.html">Transfer News</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="contact.html">Contact</a>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+		</div>
+	</div>
+</div>
+       <h1>Champions League </h1>
+	   <img class="cleague" src="images/cleague.jpg" alt="Champions League Bracket">
+	   <h3> Bayern Munich vs. Villareal</h3>
+	   <article><p> Bayern Munich were sent crashing out of the Champions League as Samuel Chukwueze's 88th-minute strike secured a dramatic 2-1 aggregate victory for underdogs Villarreal.
+
+Substitute Chukwueze, who had only been on the pitch for four minutes, finished off a rapid counter-attack when he converted Gerard Moreno's cross to silence the Allianz Arena as Bayern were eliminated at the quarter-final stage for the second year in a row.
+
+Bayern had been pushing for a winner of their own after Robert Lewandowski cancelled out Arnaut Danjuma's first-leg strike with his 13th Champions League goal of the campaign early in the second half.
+
+But Unai Emery's side, Europa League winners against Manchester United last season, defended resolutely in the face of heavy Bayern pressure and seized their chance when it came.
+
+Indeed, while Bayern had 45 shots across the two legs and only scored once, Villarreal netted with each of their only two efforts on target, with Chukwueze's breakaway strike meaning they will face either Liverpool or Benfica in only the second Champions League semi-final in their history.</p></article>
+
+	<h3> Benfica vs. Liverpool </h3>
+	<article><p>Liverpool's counter-pressing ability, showing how they got yellow shirts around Benfica, allowing them no time on the ball in the middle and forcing turnovers. The UEFA observer highlighted the intense pressure they put on the ball carrier, and their capacity to sustain this thanks to their physical and mental strength.
+
+The end product was 74 recoveries – nine more than their previous best in the Champions League this season, at home against Porto – and their midfield three of Thiago Alcántara (ten recoveries) Fabinho (nine) and Keïta (eight) led the way on this front. To give another example of their aggressive ball-winning, Liverpool's collective total of 21 tackles was their second-highest of the season in the competition.
+Liverpool's set-up is geared to achieve these results, with their wingers staying narrow alongside Mané in a first pressing line and, behind them, the three midfielders supporting in a second line of three. On Tuesday, the midfielders did this impressively, closing possible passing lines and reading the game very well. Both full-backs played their part too, as is seen in the first clip when Robertson comes infield to put pressure on the ball, and then Alexander-Arnold wins it on the other side.
+To Benfica's credit, with the boost of their goal and the support of the home crowd, their hard work ensured that Klopp's men lost control for a period early in the second half. The Reds were no longer as compact and aggressive in pressing and counter-pressing, and mistakes crept in. However, Klopp reacted with a triple substitution in the 61st minute: Diogo Jota for Salah, Firmino for Mané, and Jordan Henderson for Thiago Alcántara. These fresh legs helped restore their compactness and control, with Jota, for instance, producing five recoveries in his half-hour on the pitch.
+There was much to admire elsewhere in Liverpool's performance. In their build-up play, they offered a good mix of short passes and longer balls for the fast attackers to make runs in behind, as well as quick switches of play. Their positional play was excellent too, not least in the last third with overloads in the centre courtesy of the high-attacking full-backs – at which point their formation was almost a 2-3-5.
+Another feature of their game worthy of mention was their set plays. Their set-piece approach was the focus of an earlier In the Zone analysis article after they won at Inter in February, and once again they looked well drilled at both their throw-ins and their corners. They now have six goals from set plays in the competition – more than any other side in the competition – and, additionally, they are a team boasting a good, clear organisation when it comes to defending set pieces (zonal).</p></article>
+
+	<h3> Real Madrid vs. Chelsea </h3>
+	<article><p> In a repeat of last year’s fascinating Champions League semi-final, Chelsea and Real Madrid met again this time with the welcome return of fans in the stadium.
+
+ 
+
+Off-the-field issues have dogged Chelsea in the last few weeks though the Blues still have so much to play for this season under the steady tutelage of Thomas Tuchel. The European Champions were dealt a major blow at the Bridge, as the German admitted in his press conference after the game that ‘he got it wrong’ as the game was lost during the opening 46 minutes.
+
+ 
+
+Real Madrid are synonymous with the Champions League. The ‘Big Ears’ trophy is the symbol of excellence in elite European football, similarly at Madrid excellence isn’t applauded or greeted with glee it is more expected.
+
+ 
+
+There is just something different and complex when it comes to Real Madrid and its relationship with this competition, an obsession almost. It is worth unpacking where the game was lost and won, in particular Real’s surprising 1-2 punch in the first half, it wasn’t just the excellence of a certain French striker at his peak.</p></article>
+
+
+</body>
+ <footer class="footer page-footer font-small ">
+     <div class="container">
+        <div class="row">
+            <span class="text-muted">&copy; Gabriel Jastrzebski, 2022 |  Terms Of Use  |  Privacy Statement</span>
+        </div>
+     </div>
+  </footer>
+
+
+
+    <!-- Javascript Bundle with Popper -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+        crossorigin="anonymous">
+</script>
+
+</body>
+</html>

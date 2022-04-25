@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>P4</title>
+    <!-- CSS only -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
+          crossorigin="anonymous">
+    <link href="styles/rest.css" rel="stylesheet">
+
+</head>
+<body>
+<div class="container-fluid">
+    <div class="row">
+        <div class="row">
+            <nav class="navbar navbar-expand-md
+                    justify-content-start
+                    bg-dark navbar-dark
+                    col-12">
+
+                <!-- Brand -->
+                <a class="navbar-brand" href="index.html">Homepage</a>
+                <!-- Responsive Button for the smaller menu -->
+                <button class="navbar-toggler" type="button"
+                        data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="collapsibleNavbar">
+                    <ul class="navbar-nav">
+                        <!-- Links -->
+						    <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbardrop"
+                               data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                League Discussion
+                            </a>
+                            <div class="dropdown-menu">
+                                <a class="dropdown-item" href="bundesliga.html">Bundesliga</a>
+                                <a class="dropdown-item" href="cleague.html">Champions League</a>
+                            </div>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="transfer.html">Transfer News</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="contact.html">Contact</a>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+        </div>
+	</div>
+</div>
+	 <h1>Bundesliga </h1>
+	 <aside>
+	<img src="images/btable.png" alt="Bundesliga Table">
+	</aside>
+	<h3> Bayern Munich vs. Borussia Dortmund</h3>
+		<p><article> Tactically, Bayern Munich was fine; Julian Nagelsmann got it right. That being said, the backline got caught in some transitional and dicey moments. Joshua Kimmich’s rash challenge in the box and a couple of rash challenges by Benjamin Pavard could have led to Bayern Munich waiting longer for the title. Manuel Neuer has had more than his usual number of scuffed passes lately.
+
+Nonetheless, Borussia Dortmund adapted their approach for this game, setting up to cut off spaces as well as to take less risks than they usually do. Bayern used short passing chains to play through the press and countered effectively whenever they could. Overall, the tactics, and Bayern, were effective. I know I praise Jamal Musiala all the time, but he deserves it. He scored the goal which sealed the title. Bayern Munich has an incredible gem in their ranks, and the team is so lucky to have him. He belongs in this team and that becomes obvious with each passing game.
+
+Leon Goretzka’s injury-induced absence might have led to the drop off in the form of the team in the crucial moments of the season. His presence, ability to glide past defenders despite his size, ability to shield the back-line and move forward whenever needed are the qualities which makes him a starter in this team. Clearly, when he is absent, this team drops down a couple of levels.
+
+As for Julian Nagelsmann, I watched his post match interview with Bastian Schweinsteiger and despite the title win (he is Bavarian after all!), he seemed to be aware of the fact that things will need to improve ahead of next season. Although nobody asked him about the Villarreal games, he brought the games up himself. I don’t ever really give Nagelsmann credit and the jury is still out on the hybrid back three/four — that being said, a mark of a good coach is to reflect on the low points of the season. I hope to see better from Nagelsmann next season. I don’t necessarily think it will work but for now, Nagelsmann deserves a bit of praise.</article></p>
+</body>
+ <footer class="footer page-footer font-small ">
+     <div class="container">
+        <div class="row">
+            <span class="text-muted">&copy; Gabriel Jastrzebski, 2022 |  Terms Of Use  |  Privacy Statement</span>
+        </div>
+     </div>
+  </footer>
+</div>
+
+
+    <!-- Javascript Bundle with Popper -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+        crossorigin="anonymous">
+</script>
+
+</body>
+</html>

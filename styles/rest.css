@@ -1,0 +1,48 @@
+	html {
+		background-color: white;
+	}
+	
+	aside img{
+	float: left;
+	width:220px;
+	height:440px;
+	padding:0.5%;
+	margin: auto;
+	}
+	
+	footer {background-color:#000000;
+	text-align:center;
+	}
+	footer p {
+	text-align: center;
+	padding-top:1em;
+	padding-bottom:1em;}
+	
+	h1 { text-align:center;
+	font-family:"Times New Roman", Arial;
+	color: #1679d6;}
+	h3 {
+		font-family: Georgia;
+	}
+	body {
+	float: clear;
+	font-family: Helvetica;
+    font-size: 100%;
+    width: 99%;                 
+    max-width: 960px;
+    margin: 0 auto;
+    border: 3px solid #931420;
+    background-color: #A0FFE3;
+	}
+	article {
+		font-family:Arial;
+	}
+	
+	.cleague {
+	width:440px;
+	height:220px;
+	display:block;
+	margin-left: auto;
+	margin-right:auto;
+	padding: 0.25%;
+	}

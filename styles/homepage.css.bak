@@ -1,0 +1,44 @@
+	h1 { text-align:center;
+	font-family:Anton, Arial;
+	color: #1679d6;}
+	
+	
+	* {
+  box-sizing: border-box;
+}
+
+h2 {
+	font-family: "EB Garamound", Arial;
+	color: #227429;
+}
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+  text-align:center;
+}
+
+/* Clear floats after the columns */
+.r:after {
+  content: "";
+  display: table;
+  clear: both;
+  text-align:center;
+}
+img {
+	float:left;
+	max-width: 20%;
+	max-height:20%;
+}
+
+	
+	header { font-style: bold; font-size: 130%; font-family: sans-serif;}
+	
+	main {
+		font-family: "Times New Roman";
+	}
+	
+	footer {background-color:#000000;
+	text-align: center;
+	}
+	
